@@ -123,7 +123,7 @@ namespace leave_management.Controllers
             return RedirectToAction(nameof(Index));
         }
 
-        // POST: LeaveTypesController/Delete/5
+        // POST: LeaveTypesController/Delete/5 this is a test again
         [HttpPost]
         [ValidateAntiForgeryToken]
         public ActionResult Delete(int id, LeaveTypeVM model)
