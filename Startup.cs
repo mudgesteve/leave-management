@@ -17,6 +17,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
+//Learned a hard lesson about replace all AGAIN! ouch
+//Not sure how to control where a cloned repo goes yet
+//i feel li8ke i have two working copies on my machine right now
+//Oh well i will get it!@
 namespace leave_management
 {
     public class Startup
